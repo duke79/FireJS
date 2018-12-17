@@ -1,5 +1,13 @@
 # pyWeb
 
+## Installation
+
+```
+npm install pyweb
+```
+
+## Usage
+
 ```js
 let pw = require('pyweb');
 
