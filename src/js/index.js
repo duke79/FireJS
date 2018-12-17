@@ -1,5 +1,7 @@
 let pw = require('./pyweb')
 
-exports.printMsg = function() {
-  console.log("This is a message from the demo package");
-}
+exports.fire = pw.fire;
+
+// pw.fire(cmd = "abc hulo", function (res) {
+//     console.log(res);
+// });

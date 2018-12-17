@@ -1,6 +1,6 @@
 {
   "name": "pyweb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Front end client for pyweb.",
   "main": "index.js",
   "scripts": {
