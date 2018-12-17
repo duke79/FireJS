@@ -1,23 +1,29 @@
 {
-  "name": "firejs",
+  "name": "pyweb",
   "version": "1.0.0",
-  "description": "Front end client for FireJS.",
+  "description": "Front end client for pyweb.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/duke79/FireJS.git"
+    "url": "git://github.com/duke79/pyweb.git"
   },
   "keywords": [
     "fire",
-    "firejs"
+    "python",
+    "js",
+    "javascript",
+    "websocket",
+    "socket"
   ],
   "author": "Pulkit Singh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/duke79/FireJS/issues"
+    "url": "https://github.com/duke79/pyWeb/issues"
   },
-  "homepage": "https://github.com/duke79/FireJS#readme"
+  "homepage": "https://github.com/duke79/pyWeb#readme",
+  "dependencies": {
+  }
 }
